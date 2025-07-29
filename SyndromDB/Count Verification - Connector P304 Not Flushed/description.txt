@@ -1,0 +1,1 @@
+P304 RS485 8 PIN green connector is not fully insrted and flushed.

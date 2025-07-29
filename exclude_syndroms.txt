@@ -1,0 +1,21 @@
+# List of syndroms to exclude from the daily report
+# Add one syndrom per line, exactly as it appears in your data (case-sensitive)
+# Lines starting with # are comments and will be ignored
+
+Alignment Verification - Horizontaly not aligned
+Alignment Verification - Vertical not aligned
+Count Verification - DQM-Obstruction
+Count Verification - DQM-Remove JIG-1
+Count Verification - UUT is not in place
+DQM Object not in FOV, Retake Picture-4-0,5-5-7-0
+DQM Retake Picture-4-9,6-5-7-0
+DQM Torque Screw Obstruction, Retake Picture-4-7,5-5-7-0
+Alignment Verification - Vertical not aligned
+Count Verification - Bloated Capacitors C2200 C2202
+Count Verification - Unit upside down
+Count Verification - SSP Switch Incorrect Position
+Count Verification - DC SW in ON Position
+Count Verification - Hand
+Count Verification - Loose Fuse
+Count Verification - Damaged Screw
+Count Verification - RGM Switch Wrong Position

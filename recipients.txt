@@ -1,0 +1,34 @@
+# Email recipients for daily TLA report
+# Add one email address per line
+# Lines starting with # are comments and will be ignored
+
+# Example recipients (replace with actual email addresses):
+# abu.h@solaredge.com
+# Abu.hasnat@solaredge.com
+
+# Test email (uncomment and modify as needed):
+# test@example.com
+
+# Uncomment one of these for testing:
+reecha.dulal@flex.com
+abbey.raymond@solaredge.com
+diego.g@solaredge.com
+dima.sh@solaredge.com
+Alberto.Garcia@flex.com
+matthew.weyandt@flex.com
+jeanette.morsbach@flex.com
+daniel.antillon@solaredge.com
+shivam.patel@solaredge.com
+marco.barajasreyes@solaredge.com
+karen.schifano@flex.com
+jared.delacerda@flex.com
+farnosh.latif@flex.com
+tony.sutton@flex.com
+edna.hernandez2@flex.com
+martin.teniente@flex.com
+lawrence.sweetserjr@flex.com
+edy.rodriguez@flex.com
+conner.hare@flex.com
+robert.galindo@flex.com
+Ana.Hernandez@Solaredge.com
+greg.cole@flex.com

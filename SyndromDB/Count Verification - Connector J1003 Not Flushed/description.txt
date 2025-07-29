@@ -1,0 +1,1 @@
+Connector j1003 Not Fully flushed / Inserted. Risks: Functionality failure, Heated component due to high Resistance caused by loose connection. Damage to the connector and components.

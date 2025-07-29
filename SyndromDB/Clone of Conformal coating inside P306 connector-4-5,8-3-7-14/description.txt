@@ -1,0 +1,1 @@
+Conformal Coating Inside the 10Pin TB PTH Connector on the Portia PCBA. This posses Risks of improper connection with its mate if the connection Slots being used in the field. 

@@ -1,0 +1,1 @@
+RS485 / SPI Connector Not inserted / Flushed in all the way.

@@ -1,0 +1,3 @@
+Monitor Name: Count Verification - RGM GAB Connector Loose
+
+RGM GAB Connector Loose / Not fully Flushed.
